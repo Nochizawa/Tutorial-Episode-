@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tutorial">
+    <output-path>$USER_HOME$/Desktop/Bukkit Tutorial Server/plugins</output-path>
+    <root id="archive" name="Tutorial.jar">
+      <element id="module-output" name="Tutorial" />
+      <element id="library" level="project" name="spigot-1.12.2" />
+    </root>
+  </artifact>
+</component>
