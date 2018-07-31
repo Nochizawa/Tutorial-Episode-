@@ -1,4 +1,4 @@
-package me.Rae.Tutorial.Events;
+package me.Rae.Main.Events;
 
 import java.util.ArrayList;
 
@@ -19,7 +19,7 @@ import net.md_5.bungee.api.ChatColor;
 
 public class EventsClass implements Listener {
 
-    public String prefix = (ChatColor.BLUE + "Tutorial > ");
+    public String prefix = (ChatColor.BLUE + "Main > ");
 
     @EventHandler
     public void onJoin(PlayerJoinEvent event) {

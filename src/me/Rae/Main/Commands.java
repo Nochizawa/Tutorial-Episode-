@@ -1,4 +1,4 @@
-package me.Rae.Tutorial;
+package me.Rae.Main;
 
 import net.minecraft.server.v1_12_R1.CommandExecute;
 import org.bukkit.ChatColor;
