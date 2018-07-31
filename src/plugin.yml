@@ -1,0 +1,13 @@
+name: Tutorial
+author: Rae
+version: 1.0
+main: me.Rae.Tutorial.Tutorial
+description: Tutorial for me.
+
+commands:
+  giveitem:
+    usage: /<command>
+    description: Tutorial Command
+  tutorial:
+    usage: /<command>
+    description: Tutorial Command
